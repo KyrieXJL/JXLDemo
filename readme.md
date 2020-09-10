@@ -1,7 +1,6 @@
-###使用JXL框架操作数据导出为Excel表格
---
- 
- >JXL 的Maven依赖
+## 使用JXL操作数据转换Excel
+
+>JXL 的Maven依赖
 
 ``` 
     <dependency>
